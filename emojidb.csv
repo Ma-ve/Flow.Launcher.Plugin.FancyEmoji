@@ -3258,230 +3258,230 @@
 3258,2B0C,horizontal double ended arrow,horizontal double ended arrow
 3259,2B0D,vertical double ended arrow,vertical double ended arrow
 3260,2B8F,demi clockwise arrow,demi clockwise arrow
-3261,E000,goldfish,"goldfish, goldfish, fish, water"
-3262,E001,donkey,donkey
-3263,E002,poppy,"poppy, poppy, remembrance, veterans"
-3264,E040,Twitter,Twitter
-3265,E041,pinterest,"pinterest, social, platform, pins"
-3266,E042,facebook,"facebook, facebook, company, social-media"
-3267,E043,instagram,"instagram, instagram, facebook, company, social-media"
-3268,E044,youtube,"youtube, social, platform, video, brand"
-3269,E045,github,"github, social, platform, code, git, brand"
-3270,E080,assembly point,assembly point
-3271,E081,assembly group,assembly group
-3272,E082,authority instruction,authority instruction
-3273,E083,help others,"help others, help elderly, help wheelchair"
-3274,E084,drop cover hold,"drop cover hold, earthquake safety"
-3275,E085,evacuate,evacuate
-3276,E086,evacuate vertical,evacuate vertical
-3277,E087,evacuate downstairs,evacuate downstairs
-3278,E088,evacuate to shelter,evacuate to shelter
-3279,E089,structural fire,structural fire
-3280,E08A,wild fire,wild fire
-3281,E08B,evacuate fire,evacuate fire
-3282,E08C,warning tsunami,warning tsunami
-3283,E08D,warning volcano,warning volcano
-3284,E08E,warning fire,warning fire
-3285,E08F,authority,authority
-3286,E090,first aid,"first aid, red cross"
-3287,E091,flagged point,"flagged point, white flag"
-3288,E092,flagged building,"flagged building, white flag"
-3289,E093,authority building,"authority building, white flag"
-3290,E094,signpost,"signpost, orientation, crossroad"
-3291,E095,mobile info,mobile info
-3292,E096,mobile message,mobile message
-3293,E097,charge plug,"charge plug, low battery"
-3294,E098,shelter,shelter
-3295,E099,volcano eruption,"volcano eruption, volcano fumarole"
-3296,E09A,volcano ashes,"volcano ashes, volcano eruption"
-3297,E09B,tsunami,tsunami
-3298,E09C,earthquake,earthquake
-3299,E09D,landslide,landslide
-3300,E09E,avalanche,avalanche
-3301,E09F,flood,flood
-3302,E0A0,north,north
-3303,E0A1,transmission,transmission
-3304,E0A2,sos stencil,sos stencil
-3305,E0A3,ok stencil,ok stencil
-3306,E0A4,no stencil,no stencil
-3307,E0A5,warning strip,warning strip
-3308,E0A6,warning strip right,"warning strip right, arrow"
-3309,E0A7,arrow turn right,arrow turn right
-3310,E0A8,emergency exit door,emergency exit door
-3311,E0A9,location indicator red,location indicator red
-3312,E0AA,electric plug red,electric plug red
-3313,E0AB,timer,"timer, clock, alarm"
-3314,E0C0,half orange fruit,"half orange fruit, citrus fruits, half"
-3315,E0C1,maultasche,"maultasche, swabian, schwÃ¤bisch, schwaebisch, meal, germany"
-3316,E0C2,lentils with spaetzle,"lentils with spaetzle, swabian, schwÃ¤bisch, meal, germany"
-3317,E0C3,pretzel,"pretzel, swabian, schwÃ¤bisch, schwaebisch, brezel, germany"
-3318,E0C4,pomegranate,"pomegranate, pomegranate, fruit, seeds"
-3319,E100,tap,tap
-3320,E101,double tap,double tap
-3321,E102,three finger operation,three finger operation
-3322,E103,move,move
-3323,E104,scroll,"scroll, vertical, y-axis, mouse, wheel, movement, up, down"
-3324,E105,swipe,"swipe, swipe, finger, move, hand, sideways, app"
-3325,E106,scroll horizontal,"scroll horizontal, x-axis, move, mouse, scrollwheel, scrolling"
-3326,E107,page move,"page move, movement, left, right, site, document, next, previous, paper"
-3327,E108,swipe left,"swipe left, finger, movement, gesture, touch, app, left, x-axis, hand"
-3328,E109,swipe up,"swipe up, finger, movement, gesture, touch, app, up, y-axis, hand"
-3329,E10A,swipe right,"swipe right, finger, movement, gesture, touch, app, right, x-axis, hand"
-3330,E10B,swipe down,"swipe down, finger, movement, gesture, touch, app, down, y-axis, hand"
-3331,E10C,finger pushing button,"finger pushing button, pushing, pressing, red, alarm, nuclear missile, launch, start, stop"
-3332,E10D,exit,exit
-3333,E140,first aid kit,first aid kit
-3334,E141,armchair,armchair
-3335,E142,picture,"picture, photo, picture, frame, landscape"
-3336,E143,lighter,"lighter, lighter, bic"
-3337,E144,outlet,"outlet, outlet"
-3338,E146,spÃ¤tzlepresse,"spÃ¤tzlepresse, swabian, schwÃ¤bisch, schwaebisch, spÃ¤tzle, germany"
-3339,E147,european name badge,european name badge
-3340,E148,kehrwoche,"kehrwoche, swabian, schwÃ¤bisch, schwaebisch, germany, broom"
-3341,E181,drunk person,"drunk person, person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking"
-3342,E182,person with dog,"person with dog, person, person-activity, dog, walking, animal, pet"
-3343,E183,trump,"trump, trump, donald, president, america, usa"
-3344,E184,horse riding,"horse riding, equestrian"
-3345,E1C0,wireframes,wireframes
-3346,E1C1,code editor,code editor
-3347,E1C2,autonomous car,autonomous car
-3348,E1C3,switch,"switch, toggling, changeover switch, exchange counter, left, right"
-3349,E1C4,surveillance,"surveillance, surveillance, camera, CCTV"
-3350,E1C6,augmented reality,augmented reality
-3351,E1C7,led,led
-3352,E1C8,motor,motor
-3353,E1C9,raspberry pi,raspberry pi
-3354,E1CA,virtual reality,virtual reality
-3355,E1CB,cable,cable
-3356,E1CC,tablet,"tablet, technology, device, portable, screen, phablet, ipad"
-3357,E1CD,gps,"gps, navigation, localization, location, reception, signal, wireless, crosshair, where"
-3358,E1CE,smartwatch,"smartwatch, clock, apps, monitor, intelligent, device, armlet"
-3359,E1CF,washing machine,"washing machine, clothing, garment, cleaner, home electronics, appliance"
-3360,E1D0,ibeacon,"ibeacon, wireless, technology, iot, internet of things, navigation, localization, antenna, connection, reception"
-3361,E1D1,keyboard,"keyboard, keyboard, key, type"
-3362,E1D2,drone,"drone, drone, UAV, quadcopter, RC"
-3363,E1D3,arduino,"arduino, arduino, prototyping, electric, sensor"
-3364,E1D4,wire,"wire, wire, cord, electric, litz-wire"
-3365,E1D5,potentiometer,"potentiometer, potentiometer"
-3366,E1D6,solar cell,"solar cell, solar, module, cell, photovoltaic"
-3367,E1D7,circuit,"circuit, circuit, electric, prototype"
-3368,E200,cafeteria,cafeteria
-3369,E201,emergency exit,"emergency exit, alarm, fire, escape, way, route, guidance, signage, run, person, people, humans"
-3370,E202,stairway,"stairway, steps, up, down, ascend, descend, walk"
-3371,E203,town,"town, city, village, town"
-3372,E204,elevator,"elevator, elevator"
-3373,E205,eiffel tower,"eiffel tower, paris, tower, france"
-3374,E206,parking garage,"parking garage, parking lot, car, automobile, vehicle, sign, traffic sign, p"
-3375,E207,schwÃ¤bisch gmÃ¼nd forum gold und silber,"schwÃ¤bisch gmÃ¼nd forum gold und silber, swabian, schwÃ¤bisch, schwaebisch, germany, schwaebisch gmuend"
-3376,E208,schwÃ¤bisch gmÃ¼nd fÃ¼nfknopfturm,"schwÃ¤bisch gmÃ¼nd fÃ¼nfknopfturm, tower, schwaebisch gmuend"
-3377,E209,schwÃ¤bisch gmÃ¼nd ratshaus,"schwÃ¤bisch gmÃ¼nd ratshaus, town hall, schwaebisch gmuend"
-3378,E20A,stuttgart fernsehturm,"stuttgart fernsehturm, swabian, schwÃ¤bisch, schwaebisch, germany"
-3379,E20B,space shuttle,"space shuttle, nasa, shuttle, rocket, space, galaxy, adventure, alien, transportation"
-3380,E240,mark,mark
-3381,E241,toggle button,toggle button
-3382,E242,location indicator,location indicator
-3383,E243,scale,"scale, measurement, scaling, size, distance, meters, inches, miles, kilometers"
-3384,E244,locomotion,"locomotion, movement, transport, driving, destination, start, end, distance, track"
-3385,E245,toggle button state B,toggle button state B
-3386,E246,people dialogue,"people dialogue, communication, talking, chatting, users, humans, conversation, two, face-to-face"
-3387,E247,safety,safety
-3388,E248,chats,"chats, messaging, typing, message, text, writing, write, dialog"
-3389,E249,collaboration,"collaboration, collab, team, teamwork, group, work, communication, circle"
-3390,E24A,interview,"interview, interview, talk, speak, bubble"
-3391,E24B,intricate,"intricate, intricate, abstract"
-3392,E24C,simple,"simple, simple, abstract"
-3393,E24D,"return, back button","return, back button"
-3394,E24E,close,close
-3395,E24F,forward,forward
-3396,E250,hamburger menu,hamburger menu
-3397,E251,upload,upload
-3398,E252,download,download
-3399,E253,share,share
-3400,E254,wifi,wifi
-3401,E255,copy,copy
-3402,E256,contacts,contacts
-3403,E257,filter,filter
-3404,E258,cursor,"cursor, pointer"
-3405,E259,details,details
-3406,E25A,hold,hold
-3407,E25B,duplicate,"duplicate, make copy, second, file, create, page, document"
-3408,E25C,save,"save, store, hard drive, record, hdd, harddisk, download"
-3409,E25D,edit,"edit, change, editing, pencil, page, document, file, write, writing, scribble"
-3410,E25E,home button,"home button, house, main, page, website, navigation, app, ui, symbol, internet, homepage"
-3411,E25F,add button,"add button, new, file, plus, more, create, set"
-3412,E260,archive,"archive, save, save to, library, cupboard, drawer"
-3413,E261,overview,"overview, overview, lines, list"
-3414,E262,delete,"delete, delete, bin, waste, remove"
-3415,E263,comment,"comment, comment, write"
-3416,E264,more information,"more information, more, plus, add, cross"
-3417,E265,sort,"sort, sort, list, hierarchy"
-3418,E266,inbox,"inbox, entrance, inbox, in"
-3419,E267,compose,"compose, write, compose, author"
-3420,E268,add contact,"add contact, add, contact"
-3421,E269,link,"link, link, chain"
-3422,E280,exhausted face,"exhausted face, exhausted, sleepy, tired, face"
-3423,E281,incredulous face,"incredulous face, incredulous, disbelief, shocked"
-3424,E2C0,iceberg,"iceberg, titanic, ship wreck, ice, cold, sea"
-3425,E2C1,floating ice,"floating ice, glacier, polar, sea, melt"
-3426,E2C2,floating ice broken,"floating ice broken, glacier, polar, sea, melt"
-3427,E2C3,polar research station,"polar research station, neumayer station, arctic, science"
-3428,E2C4,ice core sample,"ice core sample, science, research, arctic, polar"
-3429,E2C6,ice shelf,"ice shelf, glacier, polar, sea, melt"
-3430,E2C7,ice shelf melting,"ice shelf melting, glacier, sea, melt, climate, global, warming"
-3431,E2C8,polar explorer,"polar explorer, inuit, anorak with fur"
-3432,E2C9,polar explorer man,"polar explorer man, research"
-3433,E2CA,polar explorer woman,"polar explorer woman, research"
-3434,E2CB,oil spill,"oil spill, pollution, petrol, fossil, fuel"
-3435,E2CC,exhaust gases factory,"exhaust gases factory, pollution, CO2, carbon"
-3436,E2CD,solar energy,"solar energy, sun, panel, clean, power, renewable"
-3437,E2CE,meat consumption,"meat consumption, carnivore"
-3438,E2CF,exhaust gases car,"exhaust gases car, pollution, carbon, CO2"
-3439,E2D0,sea level rise,"sea level rise, flood, tsunami, sinking"
-3440,E2D1,wind energy,"wind energy, turbine, clean, power, renewable"
-3441,E2D2,reusable bag,"reusable bag, recycle, nondisposable, tote, paper"
-3442,E2D3,radioactive waste,"radioactive waste, nuclear, hazardous"
-3443,E2D4,nuclear power plant,"nuclear power plant, reactor, stacks, cooling"
-3444,E2D5,nuclear power plant ruin,"nuclear power plant ruin, chernobyl, fukushima, reactor"
-3445,E2D6,geiger counter,"geiger counter, radiation, radioactive, science, research"
-3446,E2D7,nuclear worker man,"nuclear worker man, radiation, protection suit"
-3447,E2D8,nuclear worker woman,"nuclear worker woman, radiation, protection suit, "
-3448,E2D9,nuclear protection,"nuclear protection, radiation, suit, gas mask, nbc suit, hazmat"
-3449,E2DA,atom bomb,"atom bomb, nuclear, radioactive, nuke, WW2"
-3450,E300,female doctor,"female doctor, hospital, care, surgery"
-3451,E301,male doctor,"male doctor, hospital, care, surgery"
-3452,E302,female nurse,"female nurse, hospital, care, surgery"
-3453,E303,male nurse,"male nurse, hospital, care, surgery"
-3454,E305,pills,"pills, drug, medicine, tablets, pain killers"
-3455,E306,plaster,"plaster, patch, band aid, plaster, wound, dressing, bandage"
-3456,E307,medication,"medication, drug, medicine, tablets, pain killers"
-3457,E308,ecg waves,"ecg waves, heartbeats, beat, hospital, electrocardiogram"
-3458,E309,first aid bag,"first aid bag, briefcase, medicine, kit"
-3459,E30A,patient file,"patient file, hospital, record, filing"
-3460,E30B,patient clipboard,"patient clipboard, hospital, notes, transcript"
-3461,E30C,saline drip,"saline drip, hospital, bag"
-3462,E30D,blood transfusion,"blood transfusion, medical, bleeding, loss"
-3463,E30E,swab pliers,"swab pliers, surgery, scissors"
-3464,E30F,hot-water bottle,"hot-water bottle, cramps, comfort, warm, period"
-3465,E312,liver,"liver, organ, toxins, bile"
-3466,E313,stomach,"stomach, gut, digestion, bile, acid"
-3467,E314,large intestine,"large intestine, organ, colon, gut"
-3468,E315,intestine,"intestine, organ, digestion, colon, gut"
-3469,E316,kidney,"kidney, urine, toxins, blood, organ"
-3470,E318,forceps,"forceps, surgery, tweezers, tongs"
-3471,E319,brain,"brain, cortex, grey matter, intelligence, IQ"
-3472,E31A,bed linen,"bed linen, hospital, bedding, sheets"
-3473,E31B,bandage change,"bandage change, hospital, gauze, dressing, wound"
-3474,E31C,eye pain,"eye pain, migraine, headache, strain, sore"
-3475,E31D,headache,"headache, migraine, sore, tension, stress"
-3476,E31E,earache,"earache, tinnitus, headache, sore"
-3477,E31F,fracture leg,"fracture leg, broken, cast, bone"
-3478,E320,knee pain,"knee pain, ACL, ache, patella"
-3479,E321,backache,"backache, spine, ache, lumbar, pain"
-3480,E322,joint pain,"joint pain, ache, arthritis, strain, cartilage,"
-3481,E324,clinical thermometer,"clinical thermometer, temperature, fever, mercury, heat"
-3482,E325,bandage scissors,"bandage scissors, hospital,gauze, dressing"
-3483,E326,crutches,"crutches, walk, broken leg, accessibility"
-3484,E327,wheel chair,"wheel chair, accessibility, DACA, disability, mobility"
-3485,E328,stretcher,"stretcher, hospital,ambulance,patient,gurney"
-3486,E329,ct scan,"ct scan, MRI, cat, cancer, tumour"
-3487,E32B,scales,"scales, BMI, weight, mass, heavy"
+3261,E000,(custom openmoji) goldfish,"(custom openmoji) goldfish, goldfish, fish, water"
+3262,E001,(custom openmoji) donkey,(custom openmoji) donkey
+3263,E002,(custom openmoji) poppy,"(custom openmoji) poppy, poppy, remembrance, veterans"
+3264,E040,(custom openmoji) twitter,(custom openmoji) twitter
+3265,E041,(custom openmoji) pinterest,"(custom openmoji) pinterest, social, platform, pins"
+3266,E042,(custom openmoji) facebook,"(custom openmoji) facebook, facebook, company, social-media"
+3267,E043,(custom openmoji) instagram,"(custom openmoji) instagram, instagram, facebook, company, social-media"
+3268,E044,(custom openmoji) youtube,"(custom openmoji) youtube, social, platform, video, brand"
+3269,E045,(custom openmoji) github,"(custom openmoji) github, social, platform, code, git, brand"
+3270,E080,(custom openmoji) assembly point,(custom openmoji) assembly point
+3271,E081,(custom openmoji) assembly group,(custom openmoji) assembly group
+3272,E082,(custom openmoji) authority instruction,(custom openmoji) authority instruction
+3273,E083,(custom openmoji) help others,"(custom openmoji) help others, help elderly, help wheelchair"
+3274,E084,(custom openmoji) drop cover hold,"(custom openmoji) drop cover hold, earthquake safety"
+3275,E085,(custom openmoji) evacuate,(custom openmoji) evacuate
+3276,E086,(custom openmoji) evacuate vertical,(custom openmoji) evacuate vertical
+3277,E087,(custom openmoji) evacuate downstairs,(custom openmoji) evacuate downstairs
+3278,E088,(custom openmoji) evacuate to shelter,(custom openmoji) evacuate to shelter
+3279,E089,(custom openmoji) structural fire,(custom openmoji) structural fire
+3280,E08A,(custom openmoji) wild fire,(custom openmoji) wild fire
+3281,E08B,(custom openmoji) evacuate fire,(custom openmoji) evacuate fire
+3282,E08C,(custom openmoji) warning tsunami,(custom openmoji) warning tsunami
+3283,E08D,(custom openmoji) warning volcano,(custom openmoji) warning volcano
+3284,E08E,(custom openmoji) warning fire,(custom openmoji) warning fire
+3285,E08F,(custom openmoji) authority,(custom openmoji) authority
+3286,E090,(custom openmoji) first aid,"(custom openmoji) first aid, red cross"
+3287,E091,(custom openmoji) flagged point,"(custom openmoji) flagged point, white flag"
+3288,E092,(custom openmoji) flagged building,"(custom openmoji) flagged building, white flag"
+3289,E093,(custom openmoji) authority building,"(custom openmoji) authority building, white flag"
+3290,E094,(custom openmoji) signpost,"(custom openmoji) signpost, orientation, crossroad"
+3291,E095,(custom openmoji) mobile info,(custom openmoji) mobile info
+3292,E096,(custom openmoji) mobile message,(custom openmoji) mobile message
+3293,E097,(custom openmoji) charge plug,"(custom openmoji) charge plug, low battery"
+3294,E098,(custom openmoji) shelter,(custom openmoji) shelter
+3295,E099,(custom openmoji) volcano eruption,"(custom openmoji) volcano eruption, volcano fumarole"
+3296,E09A,(custom openmoji) volcano ashes,"(custom openmoji) volcano ashes, volcano eruption"
+3297,E09B,(custom openmoji) tsunami,(custom openmoji) tsunami
+3298,E09C,(custom openmoji) earthquake,(custom openmoji) earthquake
+3299,E09D,(custom openmoji) landslide,(custom openmoji) landslide
+3300,E09E,(custom openmoji) avalanche,(custom openmoji) avalanche
+3301,E09F,(custom openmoji) flood,(custom openmoji) flood
+3302,E0A0,(custom openmoji) north,(custom openmoji) north
+3303,E0A1,(custom openmoji) transmission,(custom openmoji) transmission
+3304,E0A2,(custom openmoji) sos stencil,(custom openmoji) sos stencil
+3305,E0A3,(custom openmoji) ok stencil,(custom openmoji) ok stencil
+3306,E0A4,(custom openmoji) no stencil,(custom openmoji) no stencil
+3307,E0A5,(custom openmoji) warning strip,(custom openmoji) warning strip
+3308,E0A6,(custom openmoji) warning strip right,"(custom openmoji) warning strip right, arrow"
+3309,E0A7,(custom openmoji) arrow turn right,(custom openmoji) arrow turn right
+3310,E0A8,(custom openmoji) emergency exit door,(custom openmoji) emergency exit door
+3311,E0A9,(custom openmoji) location indicator red,(custom openmoji) location indicator red
+3312,E0AA,(custom openmoji) electric plug red,(custom openmoji) electric plug red
+3313,E0AB,(custom openmoji) timer,"(custom openmoji) timer, clock, alarm"
+3314,E0C0,(custom openmoji) half orange fruit,"(custom openmoji) half orange fruit, citrus fruits, half"
+3315,E0C1,(custom openmoji) maultasche,"(custom openmoji) maultasche, swabian, schwã¤bisch, schwaebisch, meal, germany"
+3316,E0C2,(custom openmoji) lentils with spaetzle,"(custom openmoji) lentils with spaetzle, swabian, schwã¤bisch, meal, germany"
+3317,E0C3,(custom openmoji) pretzel,"(custom openmoji) pretzel, swabian, schwã¤bisch, schwaebisch, brezel, germany"
+3318,E0C4,(custom openmoji) pomegranate,"(custom openmoji) pomegranate, pomegranate, fruit, seeds"
+3319,E100,(custom openmoji) tap,(custom openmoji) tap
+3320,E101,(custom openmoji) double tap,(custom openmoji) double tap
+3321,E102,(custom openmoji) three finger operation,(custom openmoji) three finger operation
+3322,E103,(custom openmoji) move,(custom openmoji) move
+3323,E104,(custom openmoji) scroll,"(custom openmoji) scroll, vertical, y-axis, mouse, wheel, movement, up, down"
+3324,E105,(custom openmoji) swipe,"(custom openmoji) swipe, swipe, finger, move, hand, sideways, app"
+3325,E106,(custom openmoji) scroll horizontal,"(custom openmoji) scroll horizontal, x-axis, move, mouse, scrollwheel, scrolling"
+3326,E107,(custom openmoji) page move,"(custom openmoji) page move, movement, left, right, site, document, next, previous, paper"
+3327,E108,(custom openmoji) swipe left,"(custom openmoji) swipe left, finger, movement, gesture, touch, app, left, x-axis, hand"
+3328,E109,(custom openmoji) swipe up,"(custom openmoji) swipe up, finger, movement, gesture, touch, app, up, y-axis, hand"
+3329,E10A,(custom openmoji) swipe right,"(custom openmoji) swipe right, finger, movement, gesture, touch, app, right, x-axis, hand"
+3330,E10B,(custom openmoji) swipe down,"(custom openmoji) swipe down, finger, movement, gesture, touch, app, down, y-axis, hand"
+3331,E10C,(custom openmoji) finger pushing button,"(custom openmoji) finger pushing button, pushing, pressing, red, alarm, nuclear missile, launch, start, stop"
+3332,E10D,(custom openmoji) exit,(custom openmoji) exit
+3333,E140,(custom openmoji) first aid kit,(custom openmoji) first aid kit
+3334,E141,(custom openmoji) armchair,(custom openmoji) armchair
+3335,E142,(custom openmoji) picture,"(custom openmoji) picture, photo, picture, frame, landscape"
+3336,E143,(custom openmoji) lighter,"(custom openmoji) lighter, lighter, bic"
+3337,E144,(custom openmoji) outlet,"(custom openmoji) outlet, outlet"
+3338,E146,(custom openmoji) spã¤tzlepresse,"(custom openmoji) spã¤tzlepresse, swabian, schwã¤bisch, schwaebisch, spã¤tzle, germany"
+3339,E147,(custom openmoji) european name badge,(custom openmoji) european name badge
+3340,E148,(custom openmoji) kehrwoche,"(custom openmoji) kehrwoche, swabian, schwã¤bisch, schwaebisch, germany, broom"
+3341,E181,(custom openmoji) drunk person,"(custom openmoji) drunk person, person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking"
+3342,E182,(custom openmoji) person with dog,"(custom openmoji) person with dog, person, person-activity, dog, walking, animal, pet"
+3343,E183,(custom openmoji) trump,"(custom openmoji) trump, trump, donald, president, america, usa"
+3344,E184,(custom openmoji) horse riding,"(custom openmoji) horse riding, equestrian"
+3345,E1C0,(custom openmoji) wireframes,(custom openmoji) wireframes
+3346,E1C1,(custom openmoji) code editor,(custom openmoji) code editor
+3347,E1C2,(custom openmoji) autonomous car,(custom openmoji) autonomous car
+3348,E1C3,(custom openmoji) switch,"(custom openmoji) switch, toggling, changeover switch, exchange counter, left, right"
+3349,E1C4,(custom openmoji) surveillance,"(custom openmoji) surveillance, surveillance, camera, cctv"
+3350,E1C6,(custom openmoji) augmented reality,(custom openmoji) augmented reality
+3351,E1C7,(custom openmoji) led,(custom openmoji) led
+3352,E1C8,(custom openmoji) motor,(custom openmoji) motor
+3353,E1C9,(custom openmoji) raspberry pi,(custom openmoji) raspberry pi
+3354,E1CA,(custom openmoji) virtual reality,(custom openmoji) virtual reality
+3355,E1CB,(custom openmoji) cable,(custom openmoji) cable
+3356,E1CC,(custom openmoji) tablet,"(custom openmoji) tablet, technology, device, portable, screen, phablet, ipad"
+3357,E1CD,(custom openmoji) gps,"(custom openmoji) gps, navigation, localization, location, reception, signal, wireless, crosshair, where"
+3358,E1CE,(custom openmoji) smartwatch,"(custom openmoji) smartwatch, clock, apps, monitor, intelligent, device, armlet"
+3359,E1CF,(custom openmoji) washing machine,"(custom openmoji) washing machine, clothing, garment, cleaner, home electronics, appliance"
+3360,E1D0,(custom openmoji) ibeacon,"(custom openmoji) ibeacon, wireless, technology, iot, internet of things, navigation, localization, antenna, connection, reception"
+3361,E1D1,(custom openmoji) keyboard,"(custom openmoji) keyboard, keyboard, key, type"
+3362,E1D2,(custom openmoji) drone,"(custom openmoji) drone, drone, uav, quadcopter, rc"
+3363,E1D3,(custom openmoji) arduino,"(custom openmoji) arduino, arduino, prototyping, electric, sensor"
+3364,E1D4,(custom openmoji) wire,"(custom openmoji) wire, wire, cord, electric, litz-wire"
+3365,E1D5,(custom openmoji) potentiometer,"(custom openmoji) potentiometer, potentiometer"
+3366,E1D6,(custom openmoji) solar cell,"(custom openmoji) solar cell, solar, module, cell, photovoltaic"
+3367,E1D7,(custom openmoji) circuit,"(custom openmoji) circuit, circuit, electric, prototype"
+3368,E200,(custom openmoji) cafeteria,(custom openmoji) cafeteria
+3369,E201,(custom openmoji) emergency exit,"(custom openmoji) emergency exit, alarm, fire, escape, way, route, guidance, signage, run, person, people, humans"
+3370,E202,(custom openmoji) stairway,"(custom openmoji) stairway, steps, up, down, ascend, descend, walk"
+3371,E203,(custom openmoji) town,"(custom openmoji) town, city, village, town"
+3372,E204,(custom openmoji) elevator,"(custom openmoji) elevator, elevator"
+3373,E205,(custom openmoji) eiffel tower,"(custom openmoji) eiffel tower, paris, tower, france"
+3374,E206,(custom openmoji) parking garage,"(custom openmoji) parking garage, parking lot, car, automobile, vehicle, sign, traffic sign, p"
+3375,E207,(custom openmoji) schwã¤bisch gmã¼nd forum gold und silber,"(custom openmoji) schwã¤bisch gmã¼nd forum gold und silber, swabian, schwã¤bisch, schwaebisch, germany, schwaebisch gmuend"
+3376,E208,(custom openmoji) schwã¤bisch gmã¼nd fã¼nfknopfturm,"(custom openmoji) schwã¤bisch gmã¼nd fã¼nfknopfturm, tower, schwaebisch gmuend"
+3377,E209,(custom openmoji) schwã¤bisch gmã¼nd ratshaus,"(custom openmoji) schwã¤bisch gmã¼nd ratshaus, town hall, schwaebisch gmuend"
+3378,E20A,(custom openmoji) stuttgart fernsehturm,"(custom openmoji) stuttgart fernsehturm, swabian, schwã¤bisch, schwaebisch, germany"
+3379,E20B,(custom openmoji) space shuttle,"(custom openmoji) space shuttle, nasa, shuttle, rocket, space, galaxy, adventure, alien, transportation"
+3380,E240,(custom openmoji) mark,(custom openmoji) mark
+3381,E241,(custom openmoji) toggle button,(custom openmoji) toggle button
+3382,E242,(custom openmoji) location indicator,(custom openmoji) location indicator
+3383,E243,(custom openmoji) scale,"(custom openmoji) scale, measurement, scaling, size, distance, meters, inches, miles, kilometers"
+3384,E244,(custom openmoji) locomotion,"(custom openmoji) locomotion, movement, transport, driving, destination, start, end, distance, track"
+3385,E245,(custom openmoji) toggle button state b,(custom openmoji) toggle button state b
+3386,E246,(custom openmoji) people dialogue,"(custom openmoji) people dialogue, communication, talking, chatting, users, humans, conversation, two, face-to-face"
+3387,E247,(custom openmoji) safety,(custom openmoji) safety
+3388,E248,(custom openmoji) chats,"(custom openmoji) chats, messaging, typing, message, text, writing, write, dialog"
+3389,E249,(custom openmoji) collaboration,"(custom openmoji) collaboration, collab, team, teamwork, group, work, communication, circle"
+3390,E24A,(custom openmoji) interview,"(custom openmoji) interview, interview, talk, speak, bubble"
+3391,E24B,(custom openmoji) intricate,"(custom openmoji) intricate, intricate, abstract"
+3392,E24C,(custom openmoji) simple,"(custom openmoji) simple, simple, abstract"
+3393,E24D,"(custom openmoji) return, back button","(custom openmoji) return, back button"
+3394,E24E,(custom openmoji) close,(custom openmoji) close
+3395,E24F,(custom openmoji) forward,(custom openmoji) forward
+3396,E250,(custom openmoji) hamburger menu,(custom openmoji) hamburger menu
+3397,E251,(custom openmoji) upload,(custom openmoji) upload
+3398,E252,(custom openmoji) download,(custom openmoji) download
+3399,E253,(custom openmoji) share,(custom openmoji) share
+3400,E254,(custom openmoji) wifi,(custom openmoji) wifi
+3401,E255,(custom openmoji) copy,(custom openmoji) copy
+3402,E256,(custom openmoji) contacts,(custom openmoji) contacts
+3403,E257,(custom openmoji) filter,(custom openmoji) filter
+3404,E258,(custom openmoji) cursor,"(custom openmoji) cursor, pointer"
+3405,E259,(custom openmoji) details,(custom openmoji) details
+3406,E25A,(custom openmoji) hold,(custom openmoji) hold
+3407,E25B,(custom openmoji) duplicate,"(custom openmoji) duplicate, make copy, second, file, create, page, document"
+3408,E25C,(custom openmoji) save,"(custom openmoji) save, store, hard drive, record, hdd, harddisk, download"
+3409,E25D,(custom openmoji) edit,"(custom openmoji) edit, change, editing, pencil, page, document, file, write, writing, scribble"
+3410,E25E,(custom openmoji) home button,"(custom openmoji) home button, house, main, page, website, navigation, app, ui, symbol, internet, homepage"
+3411,E25F,(custom openmoji) add button,"(custom openmoji) add button, new, file, plus, more, create, set"
+3412,E260,(custom openmoji) archive,"(custom openmoji) archive, save, save to, library, cupboard, drawer"
+3413,E261,(custom openmoji) overview,"(custom openmoji) overview, overview, lines, list"
+3414,E262,(custom openmoji) delete,"(custom openmoji) delete, delete, bin, waste, remove"
+3415,E263,(custom openmoji) comment,"(custom openmoji) comment, comment, write"
+3416,E264,(custom openmoji) more information,"(custom openmoji) more information, more, plus, add, cross"
+3417,E265,(custom openmoji) sort,"(custom openmoji) sort, sort, list, hierarchy"
+3418,E266,(custom openmoji) inbox,"(custom openmoji) inbox, entrance, inbox, in"
+3419,E267,(custom openmoji) compose,"(custom openmoji) compose, write, compose, author"
+3420,E268,(custom openmoji) add contact,"(custom openmoji) add contact, add, contact"
+3421,E269,(custom openmoji) link,"(custom openmoji) link, link, chain"
+3422,E280,(custom openmoji) exhausted face,"(custom openmoji) exhausted face, exhausted, sleepy, tired, face"
+3423,E281,(custom openmoji) incredulous face,"(custom openmoji) incredulous face, incredulous, disbelief, shocked"
+3424,E2C0,(custom openmoji) iceberg,"(custom openmoji) iceberg, titanic, ship wreck, ice, cold, sea"
+3425,E2C1,(custom openmoji) floating ice,"(custom openmoji) floating ice, glacier, polar, sea, melt"
+3426,E2C2,(custom openmoji) floating ice broken,"(custom openmoji) floating ice broken, glacier, polar, sea, melt"
+3427,E2C3,(custom openmoji) polar research station,"(custom openmoji) polar research station, neumayer station, arctic, science"
+3428,E2C4,(custom openmoji) ice core sample,"(custom openmoji) ice core sample, science, research, arctic, polar"
+3429,E2C6,(custom openmoji) ice shelf,"(custom openmoji) ice shelf, glacier, polar, sea, melt"
+3430,E2C7,(custom openmoji) ice shelf melting,"(custom openmoji) ice shelf melting, glacier, sea, melt, climate, global, warming"
+3431,E2C8,(custom openmoji) polar explorer,"(custom openmoji) polar explorer, inuit, anorak with fur"
+3432,E2C9,(custom openmoji) polar explorer man,"(custom openmoji) polar explorer man, research"
+3433,E2CA,(custom openmoji) polar explorer woman,"(custom openmoji) polar explorer woman, research"
+3434,E2CB,(custom openmoji) oil spill,"(custom openmoji) oil spill, pollution, petrol, fossil, fuel"
+3435,E2CC,(custom openmoji) exhaust gases factory,"(custom openmoji) exhaust gases factory, pollution, co2, carbon"
+3436,E2CD,(custom openmoji) solar energy,"(custom openmoji) solar energy, sun, panel, clean, power, renewable"
+3437,E2CE,(custom openmoji) meat consumption,"(custom openmoji) meat consumption, carnivore"
+3438,E2CF,(custom openmoji) exhaust gases car,"(custom openmoji) exhaust gases car, pollution, carbon, co2"
+3439,E2D0,(custom openmoji) sea level rise,"(custom openmoji) sea level rise, flood, tsunami, sinking"
+3440,E2D1,(custom openmoji) wind energy,"(custom openmoji) wind energy, turbine, clean, power, renewable"
+3441,E2D2,(custom openmoji) reusable bag,"(custom openmoji) reusable bag, recycle, nondisposable, tote, paper"
+3442,E2D3,(custom openmoji) radioactive waste,"(custom openmoji) radioactive waste, nuclear, hazardous"
+3443,E2D4,(custom openmoji) nuclear power plant,"(custom openmoji) nuclear power plant, reactor, stacks, cooling"
+3444,E2D5,(custom openmoji) nuclear power plant ruin,"(custom openmoji) nuclear power plant ruin, chernobyl, fukushima, reactor"
+3445,E2D6,(custom openmoji) geiger counter,"(custom openmoji) geiger counter, radiation, radioactive, science, research"
+3446,E2D7,(custom openmoji) nuclear worker man,"(custom openmoji) nuclear worker man, radiation, protection suit"
+3447,E2D8,(custom openmoji) nuclear worker woman,"(custom openmoji) nuclear worker woman, radiation, protection suit, "
+3448,E2D9,(custom openmoji) nuclear protection,"(custom openmoji) nuclear protection, radiation, suit, gas mask, nbc suit, hazmat"
+3449,E2DA,(custom openmoji) atom bomb,"(custom openmoji) atom bomb, nuclear, radioactive, nuke, ww2"
+3450,E300,(custom openmoji) female doctor,"(custom openmoji) female doctor, hospital, care, surgery"
+3451,E301,(custom openmoji) male doctor,"(custom openmoji) male doctor, hospital, care, surgery"
+3452,E302,(custom openmoji) female nurse,"(custom openmoji) female nurse, hospital, care, surgery"
+3453,E303,(custom openmoji) male nurse,"(custom openmoji) male nurse, hospital, care, surgery"
+3454,E305,(custom openmoji) pills,"(custom openmoji) pills, drug, medicine, tablets, pain killers"
+3455,E306,(custom openmoji) plaster,"(custom openmoji) plaster, patch, band aid, plaster, wound, dressing, bandage"
+3456,E307,(custom openmoji) medication,"(custom openmoji) medication, drug, medicine, tablets, pain killers"
+3457,E308,(custom openmoji) ecg waves,"(custom openmoji) ecg waves, heartbeats, beat, hospital, electrocardiogram"
+3458,E309,(custom openmoji) first aid bag,"(custom openmoji) first aid bag, briefcase, medicine, kit"
+3459,E30A,(custom openmoji) patient file,"(custom openmoji) patient file, hospital, record, filing"
+3460,E30B,(custom openmoji) patient clipboard,"(custom openmoji) patient clipboard, hospital, notes, transcript"
+3461,E30C,(custom openmoji) saline drip,"(custom openmoji) saline drip, hospital, bag"
+3462,E30D,(custom openmoji) blood transfusion,"(custom openmoji) blood transfusion, medical, bleeding, loss"
+3463,E30E,(custom openmoji) swab pliers,"(custom openmoji) swab pliers, surgery, scissors"
+3464,E30F,(custom openmoji) hot-water bottle,"(custom openmoji) hot-water bottle, cramps, comfort, warm, period"
+3465,E312,(custom openmoji) liver,"(custom openmoji) liver, organ, toxins, bile"
+3466,E313,(custom openmoji) stomach,"(custom openmoji) stomach, gut, digestion, bile, acid"
+3467,E314,(custom openmoji) large intestine,"(custom openmoji) large intestine, organ, colon, gut"
+3468,E315,(custom openmoji) intestine,"(custom openmoji) intestine, organ, digestion, colon, gut"
+3469,E316,(custom openmoji) kidney,"(custom openmoji) kidney, urine, toxins, blood, organ"
+3470,E318,(custom openmoji) forceps,"(custom openmoji) forceps, surgery, tweezers, tongs"
+3471,E319,(custom openmoji) brain,"(custom openmoji) brain, cortex, grey matter, intelligence, iq"
+3472,E31A,(custom openmoji) bed linen,"(custom openmoji) bed linen, hospital, bedding, sheets"
+3473,E31B,(custom openmoji) bandage change,"(custom openmoji) bandage change, hospital, gauze, dressing, wound"
+3474,E31C,(custom openmoji) eye pain,"(custom openmoji) eye pain, migraine, headache, strain, sore"
+3475,E31D,(custom openmoji) headache,"(custom openmoji) headache, migraine, sore, tension, stress"
+3476,E31E,(custom openmoji) earache,"(custom openmoji) earache, tinnitus, headache, sore"
+3477,E31F,(custom openmoji) fracture leg,"(custom openmoji) fracture leg, broken, cast, bone"
+3478,E320,(custom openmoji) knee pain,"(custom openmoji) knee pain, acl, ache, patella"
+3479,E321,(custom openmoji) backache,"(custom openmoji) backache, spine, ache, lumbar, pain"
+3480,E322,(custom openmoji) joint pain,"(custom openmoji) joint pain, ache, arthritis, strain, cartilage,"
+3481,E324,(custom openmoji) clinical thermometer,"(custom openmoji) clinical thermometer, temperature, fever, mercury, heat"
+3482,E325,(custom openmoji) bandage scissors,"(custom openmoji) bandage scissors, hospital,gauze, dressing"
+3483,E326,(custom openmoji) crutches,"(custom openmoji) crutches, walk, broken leg, accessibility"
+3484,E327,(custom openmoji) wheel chair,"(custom openmoji) wheel chair, accessibility, daca, disability, mobility"
+3485,E328,(custom openmoji) stretcher,"(custom openmoji) stretcher, hospital,ambulance,patient,gurney"
+3486,E329,(custom openmoji) ct scan,"(custom openmoji) ct scan, mri, cat, cancer, tumour"
+3487,E32B,(custom openmoji) scales,"(custom openmoji) scales, bmi, weight, mass, heavy"
