@@ -80,8 +80,8 @@ class Emoji(Wox):
         for row in emlist:
             if key in row[3]:
                 emoji = ''.join([chr(int(code, 16)) for code in row[1].split('-')])
-                if path.exists("Images/Emojis/"+row[1]+".jpg"):
-                    pathImg = "Images/Emojis/"+row[1]+".jpg"
+                if path.exists("Images/Emojis/"+row[1]+".png"):
+                    pathImg = "Images/Emojis/"+row[1]+".png"
                 else:
                     pathImg = "Images/icon.png"
                 results.append({
