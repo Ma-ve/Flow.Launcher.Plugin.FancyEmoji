@@ -4,6 +4,8 @@
 
 Unzip Images.zip -> Images and you're set to go !
 
+Search for an emoji and get it directly into your clipboard, ready to paste anywhere 📋
+
 Wox keyword is "e" 🤯
 
 [Wox plugin page](http://www.wox.one/plugin/322)
