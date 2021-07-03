@@ -14,7 +14,6 @@ Wox keyword is "e" 🤯
 - Make sure you have Python3 installed, and Flow has access to Python3. See [Flow.Launcher > Integrations](https://github.com/Flow-Launcher/Flow.Launcher#integrations)
   - Open a terminal in the plugin directory, with access to Python3, and run `pip install -r requirements.txt`
 
+### Demo
 
-[Wox plugin page](http://www.wox.one/plugin/322)
-
-![plugin demo](https://github.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/.github/media/fancy-emoji-demo.gif)
+![plugin demo](https://raw.githubusercontent.com/Ma-ve/Flow.Launcher.Plugin.FancyEmoji/master/.github/media/fancy-emoji-demo.gif)
