@@ -103,6 +103,14 @@ class Emoji(FlowLauncher):
                             "dontHideAfterAction":False
                        }
                     })
+            if not results:
+                return [
+                    {
+                        "Title": "No results for '" + str(key) + "'",
+                        "IcoPath": defaultPath
+                    }
+                ]
+
             return results
         except BaseException as exception:
             return [
