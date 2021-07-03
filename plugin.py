@@ -69,7 +69,11 @@ class Emoji(FlowLauncher):
     def query(self,key):
         key = key.lower()
         if len(key)<3:
-            return
+            return [
+                {
+                    "Title": "Please type 3 characters or more"
+                }
+            ]
         #Load EmojiDB
         with open('emojidb.csv', "r", encoding="utf-8") as read_obj:
             # pass the file object to reader() to get the reader object
