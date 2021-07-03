@@ -2,7 +2,7 @@
 # v1 5/18/2020
 
 #encoding=utf8
-from wox import Wox
+from flowlauncher import FlowLauncher
 from csv import reader
 from os import path
 
@@ -63,7 +63,7 @@ def put(s):
 
 #Your class must inherit from Wox base class https://github.com/qianlifeng/Wox/blob/master/PythonHome/wox.py
 #The wox class here did some works to simplify the communication between Wox and python plugin.
-class Emoji(Wox):
+class Emoji(FlowLauncher):
 
     # A function named query is necessary, we will automatically invoke this function when user query this plugin
     def query(self,key):
