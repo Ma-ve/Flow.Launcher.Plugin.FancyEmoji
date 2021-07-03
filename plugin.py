@@ -61,8 +61,6 @@ def put(s):
     CloseClipboard()
 ######
 
-#Your class must inherit from Wox base class https://github.com/qianlifeng/Wox/blob/master/PythonHome/wox.py
-#The wox class here did some works to simplify the communication between Wox and python plugin.
 class Emoji(FlowLauncher):
 
     # A function named query is necessary, we will automatically invoke this function when user query this plugin

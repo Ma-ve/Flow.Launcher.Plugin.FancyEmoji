@@ -7,7 +7,7 @@ Ported by [Mave](https://github.com/Ma-ve), from [Wox.Plugin.FancyEmoji by 821C3
 ### Usage
 Search for an emoji and get it directly into your clipboard, ready to paste anywhere 📋
 
-Wox keyword is "e" 🤯
+Action keyword is "e" 🤯
 
 ### Getting up and running
 - Unzip Images.zip -> Images in the plugin dir
