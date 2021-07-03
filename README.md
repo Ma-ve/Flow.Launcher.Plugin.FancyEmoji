@@ -4,11 +4,16 @@ Ported by [Mave](https://github.com/Ma-ve), from [Wox.Plugin.FancyEmoji by 821C3
 
 ## Fancy Emoji plugin for Flow Laucher, featuring @openmoji graphics
 
-Unzip Images.zip -> Images and you're set to go!
-
+### Usage
 Search for an emoji and get it directly into your clipboard, ready to paste anywhere 📋
 
 Wox keyword is "e" 🤯
+
+### Getting up and running
+- Unzip Images.zip -> Images in the plugin dir
+- Make sure you have Python3 installed, and Flow has access to Python3. See [Flow.Launcher > Integrations](https://github.com/Flow-Launcher/Flow.Launcher#integrations)
+  - Open a terminal in the plugin directory, with access to Python3, and run `pip install -r requirements.txt`
+
 
 [Wox plugin page](http://www.wox.one/plugin/322)
 
