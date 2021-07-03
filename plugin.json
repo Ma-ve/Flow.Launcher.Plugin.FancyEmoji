@@ -4,7 +4,7 @@
   "Name": "Fancy Emoji",
   "Description": "Search for emoji and add to your clipboard automatically.",
   "Author": "821C3",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Language": "python",
   "Website": "https://twitter.com/bricejohner",
   "ExecuteFileName": "plugin.py",
