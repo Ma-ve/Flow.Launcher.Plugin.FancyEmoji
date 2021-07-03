@@ -3,10 +3,10 @@
   "ActionKeyword": "e",
   "Name": "Fancy Emoji",
   "Description": "Search for emoji and add to your clipboard automatically.",
-  "Author": "821C3",
+  "Author": "Mave",
   "Version": "1.0.1",
   "Language": "python",
-  "Website": "https://twitter.com/bricejohner",
+  "Website": "https://github.com/Ma-ve",
   "ExecuteFileName": "plugin.py",
   "IcoPath": "Images\\icon.png"
 }
