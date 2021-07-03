@@ -69,14 +69,17 @@ class Emoji(FlowLauncher):
     def query(self,key):
         key = key.lower()
         defaultPath = "Images/icon.png"
+        transparentPixel = "1x1-transparent.png"
 
         if len(key)<3:
             return [
                 {
                     "Title": "Please type 3 characters or more",
-                    "IcoPath": defaultPath
+                    "IcoPath": transparentPixel
                 }
             ]
+
+        maxResults = 20
 
         try:
             #Load EmojiDB
@@ -103,11 +106,19 @@ class Emoji(FlowLauncher):
                             "dontHideAfterAction":False
                        }
                     })
+                    if len(results) >= maxResults:
+                        results.insert(0, {
+                            "Title": "Too many results",
+                            "SubTitle": "Please narrow your search term further, only showing {} results".format(str(maxResults))
+                        })
+
+                        return results
+
             if not results:
                 return [
                     {
                         "Title": "No results for '" + str(key) + "'",
-                        "IcoPath": defaultPath
+                        "IcoPath": transparentPixel
                     }
                 ]
 
