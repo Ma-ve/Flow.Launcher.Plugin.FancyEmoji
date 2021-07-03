@@ -68,10 +68,13 @@ class Emoji(FlowLauncher):
     # A function named query is necessary, we will automatically invoke this function when user query this plugin
     def query(self,key):
         key = key.lower()
+        defaultPath = "Images/icon.png"
+
         if len(key)<3:
             return [
                 {
-                    "Title": "Please type 3 characters or more"
+                    "Title": "Please type 3 characters or more",
+                    "IcoPath": defaultPath
                 }
             ]
 
@@ -89,7 +92,7 @@ class Emoji(FlowLauncher):
                     if path.exists("Images/Emojis/"+row[1]+".png"):
                         pathImg = "Images/Emojis/"+row[1]+".png"
                     else:
-                        pathImg = "Images/icon.png"
+                        pathImg = defaultPath
                     results.append({
                         "Title": emoji,
                         "SubTitle":row[2],
