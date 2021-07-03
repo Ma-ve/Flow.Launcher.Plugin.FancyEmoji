@@ -74,31 +74,40 @@ class Emoji(FlowLauncher):
                     "Title": "Please type 3 characters or more"
                 }
             ]
-        #Load EmojiDB
-        with open('emojidb.csv', "r", encoding="utf-8") as read_obj:
-            # pass the file object to reader() to get the reader object
-            csv_reader = reader(read_obj)
-            # Pass reader object to list() to get a list of lists
-            emlist = list(csv_reader)
-        results = []
-        for row in emlist:
-            if key in row[3]:
-                emoji = ''.join([chr(int(code, 16)) for code in row[1].split('-')])
-                if path.exists("Images/Emojis/"+row[1]+".png"):
-                    pathImg = "Images/Emojis/"+row[1]+".png"
-                else:
-                    pathImg = "Images/icon.png"
-                results.append({
-                    "Title": emoji,
-                    "SubTitle":row[2],
-                    "IcoPath":pathImg,
-                    "JsonRPCAction":{
-                        "method": "copy",
-                        "parameters":[emoji], 
-                        "dontHideAfterAction":False
-                   }
-                })
-        return results
+
+        try:
+            #Load EmojiDB
+            with open('emojidb.csv', "r", encoding="utf-8") as read_obj:
+                # pass the file object to reader() to get the reader object
+                csv_reader = reader(read_obj)
+                # Pass reader object to list() to get a list of lists
+                emlist = list(csv_reader)
+            results = []
+            for row in emlist:
+                if key in row[3]:
+                    emoji = ''.join([chr(int(code, 16)) for code in row[1].split('-')])
+                    if path.exists("Images/Emojis/"+row[1]+".png"):
+                        pathImg = "Images/Emojis/"+row[1]+".png"
+                    else:
+                        pathImg = "Images/icon.png"
+                    results.append({
+                        "Title": emoji,
+                        "SubTitle":row[2],
+                        "IcoPath":pathImg,
+                        "JsonRPCAction":{
+                            "method": "copy",
+                            "parameters":[emoji],
+                            "dontHideAfterAction":False
+                       }
+                    })
+            return results
+        except BaseException as exception:
+            return [
+                {
+                    "Title": "An exception occurred: {}".format(exception)
+                }
+            ]
+
 
     def copy(self,code):
         put(code)
