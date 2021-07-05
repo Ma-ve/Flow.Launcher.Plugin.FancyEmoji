@@ -4,9 +4,9 @@
   "Name": "Fancy Emoji",
   "Description": "Search for emoji and add to your clipboard automatically.",
   "Author": "Mave",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Language": "python",
   "Website": "https://github.com/Ma-ve",
   "ExecuteFileName": "plugin.py",
-  "IcoPath": "Images\\icon.png"
+  "IcoPath": "icon.png"
 }
