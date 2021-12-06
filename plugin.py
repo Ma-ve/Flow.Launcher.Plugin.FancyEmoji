@@ -2,15 +2,9 @@
 # v1 5/18/2020
 
 #encoding=utf8
-import os
-import sys
-from csv import reader
-
-parent_folder_path = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(parent_folder_path)
-sys.path.append(os.path.join(parent_folder_path, "lib"))
-
 from flowlauncher import FlowLauncher
+from csv import reader
+from os import path
 
 ####
 # Copy to clipboard function (put) compatible with x64 from https://forums.autodesk.com/t5/maya-programming/ctypes-bug-cannot-copy-data-to-clipboard-via-python/td-p/9195866
