@@ -2,9 +2,9 @@
 # v1 5/18/2020
 
 #encoding=utf8
+import os
+import sys
 from csv import reader
-from os import path
-from sys import path
 
 parent_folder_path = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(parent_folder_path)
