@@ -129,7 +129,22 @@ $zip->close();
 output('Unzipped! Putting them in the proper directory...');
 copy(__DIR__ . '/icon.png', $buildFolder . '/Images/icon.png');
 
-output("Creating zip automagically doesn't work... please zip the files manually.");
+$githubIconUrl = 'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/%s.png';
+foreach($newData as $newIcon) {
+    [$num, $id, $description] = $newIcon;
+    $fileLocation = sprintf('%s/Images/Emojis/%s.png', $buildFolder, $id);
+    if(!file_exists($fileLocation)) {
+        output("Icon {$id} did not exist, getting from Github...");
+        if(!file_put_contents(
+            $fileLocation,
+            file_get_contents(sprintf($githubIconUrl, $id))
+        )) {
+            throw new Exception('Could not get icon from GitHub');
+        }
+    }
+}
+
+output("[!!!] Creating zip automagically doesn't work... please zip the files manually.");
 if(false) {
     /** @noinspection PhpUnreachableStatementInspection */
     $newZipArchiveName = $buildFolder . '/Images-' . uniqid() . '.zip';
