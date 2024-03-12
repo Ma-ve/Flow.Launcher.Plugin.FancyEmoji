@@ -2,7 +2,7 @@
 
 Ported by [Mave](https://github.com/Ma-ve), from [Wox.Plugin.FancyEmoji by 821C3](https://github.com/821C3/Wox.Plugin.FancyEmoji)
 
-## Fancy Emoji plugin for Flow Laucher, featuring @openmoji graphics
+## Fancy Emoji plugin for Flow Launcher, featuring @openmoji graphics
 
 ### Usage
 Search for an emoji and get it directly into your clipboard, ready to paste anywhere 📋
